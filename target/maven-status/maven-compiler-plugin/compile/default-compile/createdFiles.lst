@@ -1,0 +1,4 @@
+com\productdetails\productmanager\dao\ProductDetailsDAO.class
+com\productdetails\productmanager\model\ProductDetails.class
+com\productdetails\productmanager\service\ProductDetailsService.class
+com\productdetails\productmanager\web\ProductDetailsController.class
